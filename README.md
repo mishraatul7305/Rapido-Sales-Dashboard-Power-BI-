@@ -21,6 +21,6 @@ An interactive Power BI dashboard analysing sales, orders, pricing and payment b
 ## Tools & Skills
 Power BI Desktop, Power Query, DAX, Data Modeling, Data Visualization
 
-## How to Use
-Download `Rapido.pbix` and open it in Power BI Desktop. 
+
+ 
 @ ATUL MISHRA
